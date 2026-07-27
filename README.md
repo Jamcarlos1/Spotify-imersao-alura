@@ -1,7 +1,2 @@
-# Spotify-imersao-alura
-
-Aplicação criada do curso de imersão Front-end da alura, spotify clone.
-
-<a href="">
-                  <img src="./src/assets/icons/logo-projeto.png" alt="Logo" />
-              </a>
+🎧 Spotify Clone — Imersão Front-end (Alura)
+<p align="center"> <img src="./src/assets/icons/logo-projeto.png" alt="Logo do Projeto" width="120" /> </p> <p align="center"> Interface web inspirada no Spotify, desenvolvida durante a <strong>Imersão Front-end da Alura</strong>.<br/> O projeto reproduz a experiência visual da plataforma e implementa busca dinâmica de artistas consumindo uma API REST. </p> <p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/JSON--Server-000000?style=for-the-badge&logo=json&logoColor=white" /> </p> <p align="center"> <img src="https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen?style=flat-square" /> <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" /> </p>
