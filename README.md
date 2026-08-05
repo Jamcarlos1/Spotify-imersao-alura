@@ -35,7 +35,10 @@ Este projeto é um clone da interface do **Spotify**, construído do zero com **
 ## ✨ Funcionalidades
 
 - 🔍 **Busca de artistas em tempo real** — pesquisa por nome consumindo uma API local (`json-server`), exibindo dinamicamente imagem e informações do artista encontrado.
-- 🎵 **Vitrine de playlists** — grid de cards coloridos representando diferentes categorias musicais (Rock, Pop, Sertanejo, Funk, MPB, Hip Hop, entre outras).
+- � **Pesquisa por sessão de playlist** — os cards das sessões podem ser clicados para exibir artistas relacionados por nome ou gênero.
+- 🧱 **Layout de cards consistente** — espaçamento uniforme entre os cards de artista mantém o layout alinhado com poucos ou muitos resultados.
+- 💬 **Feedback de busca aprimorado** — mensagem de "Nenhum artista encontrado" em destaque com cor branca para melhor legibilidade.
+- �🎵 **Vitrine de playlists** — grid de cards coloridos representando diferentes categorias musicais (Rock, Pop, Sertanejo, Funk, MPB, Hip Hop, entre outras).
 - 🧭 **Sidebar de navegação** — menu lateral fixo com biblioteca, criação de playlist e seletor de idioma, no padrão visual do Spotify.
 - 📱 **Layout responsivo** — ajuste do grid de cards para diferentes tamanhos de tela via media queries.
 - 🎨 **Design system simples** — variáveis CSS centralizadas (`vars.css`) para cores e tipografia, garantindo consistência visual.
